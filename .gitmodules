@@ -1,0 +1,6 @@
+[submodule "BLEMidiESP32"]
+	path = BLEMidiESP32
+	url = git@github.com:Rgarrido-RBN/BLEMidiESP32.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = git@github.com:Rgarrido-RBN/esp-idf.git
